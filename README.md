@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lya0
+## 👋 I'm Lya0
 
 Security researcher & Master's student, exploring the edges of the Internet.  
 Former CTF player, now focused on **network mapping** and **threat intelligence**.  
